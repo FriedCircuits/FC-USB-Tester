@@ -2,6 +2,10 @@ FC-USB-Tester-v1
 ================
 Code and design files for the USB Tester
 
+Hardware available on [https://www.tindie.com/stores/FriedCircuits/](https://www.tindie.com/stores/FriedCircuits/)
+
+More info can be found on [http://friedcircuits.us/docs/usb-tester](http://friedcircuits.us/docs/usb-tester)
+
 
 License: All source code and designs are released under 
 
