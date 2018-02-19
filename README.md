@@ -1,4 +1,4 @@
-FC-USB-Tester-v1
+FC-USB-Tester
 ================
 Code and design files for the USB Tester
 
